@@ -1,0 +1,22 @@
+# FastAPI et serveur
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Traitement PDF
+pymupdf==1.23.8
+
+# Base vectorielle
+chromadb==0.4.22
+
+# Embeddings
+sentence-transformers==2.3.1
+numpy==1.26.4
+
+# Utilitaires
+python-dotenv==1.0.0
+pydantic==2.6.0
+pydantic-settings==2.1.0
+
+# Pour le support multilingue
+langdetect==1.0.9
